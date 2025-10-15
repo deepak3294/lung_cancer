@@ -1,2 +1,5 @@
-# lung_cancer
-This code implements a Cancer Survival Prediction system using a Random Forest Classifier to predict patient survival based on clinical features and treatment duration.
+# load  the Dataset - 
+click on this link - https://www.kaggle.com/datasets/deepakladwal/lung-cancer-prediction-dataset?select=dataset_med.csv
+
+author - deepak3294
+license - MIT license
